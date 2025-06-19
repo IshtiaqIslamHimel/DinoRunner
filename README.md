@@ -83,16 +83,14 @@ The game allows real-time volume adjustment:
 - The current score is shown in the top left, and a creator credit appears at the bottom left
 
 ## Credits
-- **Created by**: YourName
+- **Created by**: Ishtiaq Islam Himel
 - **Game Engine**: Raylib (https://www.raylib.com/)
-- **Assets**: Custom textures and audio files
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
-- **Author**: YourName  
-- **Email**: YourEmail  
-- **GitHub**: [https://github.com/YourUsername](https://github.com/YourUsername)
+- **Author**: Ishtiaq Islam Himel 
+- **Email**: ishtiaqhimel11@gmail.com 
+- **GitHub**: [IshTiaQ_](https://github.com/IshtiaqIslamHimel)
 ```
 
