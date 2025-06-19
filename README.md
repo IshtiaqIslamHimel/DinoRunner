@@ -96,10 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub**: [https://github.com/YourUsername](https://github.com/YourUsername)
 ```
 
-Remember to:
-1. Replace placeholders (YourUsername, YourName, YourEmail) with your actual information
-2. Add a proper LICENSE file to your repository
-3. Ensure all asset files are properly credited if they're not original creations
-4. Verify all paths and filenames match your actual project structure
-
-The markdown is formatted for GitHub and includes all necessary sections with proper spacing and syntax. You can copy this directly into your repository's README.md file.
