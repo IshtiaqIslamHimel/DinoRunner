@@ -1,0 +1,17 @@
+﻿  DinoRunnerConsole.cpp
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(28,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(38,53): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(38,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(70,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(113,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(117,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(154,128): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(157,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DinoRunnerConsole.vcxproj -> I:\game first game\DinoRunnerConsole\x64\Release\DinoRunnerConsole.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

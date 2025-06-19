@@ -1,0 +1,10 @@
+﻿  DinoRunnerConsole.cpp
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(22,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(22,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(27,39): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(27,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(72,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+I:\game first game\DinoRunnerConsole\DinoRunnerConsole\DinoRunnerConsole.cpp(75,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DinoRunnerConsole.vcxproj -> I:\game first game\DinoRunnerConsole\x64\Debug\DinoRunnerConsole.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
