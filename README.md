@@ -45,7 +45,7 @@ The game allows real-time volume adjustment:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/DinoRunnerConsole.git
+   https://github.com/IshtiaqIslamHimel/DinoRunner.git
    cd DinoRunnerConsole
    ```
 2. Ensure the `raylib` library is included in the `raylib/` folder or linked via your build system
